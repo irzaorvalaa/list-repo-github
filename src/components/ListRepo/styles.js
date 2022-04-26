@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 const textColor = "#eeeeee";
-const background = "#34495e";
-const hoverColor = "#3c536b";
+const background = "hsla(50, 33%, 25%, .75);";
+const hoverColor = "hsl(50, 33%, 25%);";
 
 export const RepoLink = styled.a`
   text-decoration: none;

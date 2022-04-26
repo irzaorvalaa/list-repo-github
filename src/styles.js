@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const background = "#34495e";
+const background = "hsla(50, 33%, 25%, .75);";
 
 export const Container = styled.div`
   display: grid;

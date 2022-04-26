@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const background = "#34495e";
+const background = "hsla(50, 33%, 25%, .75);";
 const infoColor = "#eeeeee";
 
 export const UserInfo = styled.div`

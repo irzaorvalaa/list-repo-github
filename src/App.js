@@ -60,7 +60,7 @@ function App() {
   return (
     <Container>
       <Topbar>
-        <Title>ListRepos</Title>
+        <Title>List Repo Github</Title>
         <SearchBar
           onKeyPress={handleEnterKey}
           onFocus={selectText}
